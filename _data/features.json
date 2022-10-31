@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Consulting Partners",
+    "description": "Software Technology Consulting for your business",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Training Provider",
+    "description": "Training on latest in software development",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Software Development",
+    "description": "Providing resources to build and realize your idea",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

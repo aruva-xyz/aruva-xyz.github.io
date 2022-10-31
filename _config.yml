@@ -1,0 +1,51 @@
+baseurl: '/'
+permalink: pretty
+title: 'aruva'
+
+logo:
+  mobile: "images/logo/logo-main.svg"
+  mobile_height: "45px"
+  mobile_width: "45px"
+  desktop: "images/logo/logo-main.svg"
+  desktop_height: "120px"
+  desktop_width: "120px"
+
+home: 
+  limit_services: 3
+
+collections:
+  services:
+    output: true
+    sort_by: weight
+  team:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
