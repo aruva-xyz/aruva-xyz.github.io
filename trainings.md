@@ -1,6 +1,6 @@
 ---
 title: Trainings
-layout: tools
+layout: trainings
 description: Trainings
 bodyClass: page-about
 ---

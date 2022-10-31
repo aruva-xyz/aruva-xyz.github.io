@@ -19,6 +19,8 @@ collections:
     sort_by: weight
   tools:
     output: true
+  trainings:
+    output: true
 
 defaults:
   - scope:
@@ -31,6 +33,11 @@ defaults:
       type: "tools"
     values:
       layout: "tool"
+  - scope:
+      path: ""
+      type: "trainings"
+    values:
+      layout: "training"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
