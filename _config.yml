@@ -17,7 +17,7 @@ collections:
   services:
     output: true
     sort_by: weight
-  team:
+  tools:
     output: true
 
 defaults:
@@ -28,7 +28,7 @@ defaults:
       layout: "service"
   - scope:
       path: ""
-      type: "team"
+      type: "tools"
     values:
       layout: "team"
 
