@@ -5,15 +5,12 @@ main:
   - name: "Trainings"
     url: "/trainings/"
     weight: 3
-  - name: "Tools"
-    url: "/tools/"
-    weight: 4
+#  - name: "Tools"
+#    url: "/tools/"
+#    weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
-  - name: "Blog"
-    url: "#"
-    weight: 6
 
 footer:
   - name: "Home"
