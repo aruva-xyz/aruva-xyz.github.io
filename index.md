@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# From Concept to Reality.
+# Aruva empowers your ideas from Concept to Reality.
 
-Aruva builds world-class accelerators for businesses to take their idea from conceptualization to reality. 
+We build world-class accelerators for businesses to take their idea from conceptualization to reality. 

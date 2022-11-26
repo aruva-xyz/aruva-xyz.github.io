@@ -2,13 +2,13 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
-$black: #2f2f41;
+$primary: #457b9d;
+$primary-dark: #1d3557;
+$secondary: #e63946;
+$black: #001219;
 $white: #ffffff;
-$white-offset: #fff6f8;
-$steel: #5c5a5a;
+$white-offset: #FDFFFC;
+$steel: #000000;
 
 // Links
 $link-color: $primary;
@@ -18,7 +18,7 @@ $link-hover-decoration: underline;
 
 // Fonts
 $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family-heading: Helvetica, sans-serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
@@ -77,7 +77,7 @@ body {
 }
 
 .team-image{
-  filter: drop-shadow(0 0 10px $secondary);
+  filter: drop-shadow(0 0 4px $primary);
 }
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Apache Camel"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/cameladvanced.png"
 jobtitle: "Build advanced knowledge of Apache Camel for complex enterprise applications"
 linkedinurl: "https://www.udemy.com/course/advanced-apache-camel/?instructorPreviewMode=guest"
 weight: 1
